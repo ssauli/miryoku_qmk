@@ -8,7 +8,7 @@
 
 #include "dlip.h"
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
-    if (IS_LAYER_ON(_TAIPO)) {
+    if (IS_LAYER_ON(TAIPO)) {
         return taipo_process_record_user(keycode, record);
     }  else {
         return true;
