@@ -2,3 +2,5 @@
 # https://github.com/manna-harbour/miryoku
 
 MIRYOKU_KLUDGE_THUMBCOMBOS=yes
+USER_NAME := dlip
+TAIPO_ENABLE = yes

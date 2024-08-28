@@ -7,7 +7,6 @@
 
 #include "manna-harbour_miryoku.h"
 
-
 // Additional Features double tap guard
 
 enum {
